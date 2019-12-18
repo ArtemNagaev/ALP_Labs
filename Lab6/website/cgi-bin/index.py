@@ -4,7 +4,7 @@ print("Content-type: text/html")
 print()
 
 print('<head> \
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> \
+    <meta http-equiv="Content-Type" content="text/html; charset=CP1251"/> \
     <title></title> \
     <meta name="keywords" content=""/> \
     <meta name="description" content=""/> \
